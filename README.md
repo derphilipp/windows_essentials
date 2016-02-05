@@ -8,7 +8,7 @@
 - [Firefox, Browser](https://www.mozilla.org/de/firefox)
 - [Platinum Searcher, Grep-Style Tool](https://github.com/monochromegane/the_platinum_searcher/releases)
 - [Process Explorer, Task Manager Replacement](https://technet.microsoft.com/de-de/sysinternals/processexplorer.aspx)
-- [Silver Searcher, Grep-Style Tool](https://github.com/ggreer/the_silver_searcher], (Windows Version)(https://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html)
+- [Silver Searcher, Grep-Style Tool](https://github.com/ggreer/the_silver_searcher), [Windows Version](https://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html)
 - [Sharpkeys, Remap Keyboard Keys](https://sharpkeys.codeplex.com/)
 - [Relative Line Numbers, Visual Studio Plugin](https://visualstudiogallery.msdn.microsoft.com/74d68e2b-ff64-4c51-a2ed-d8b164eee858)
 - [Vim, Editor](http://www.vim.org)
